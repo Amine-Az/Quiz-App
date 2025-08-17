@@ -1,6 +1,6 @@
 Capstone Project – Quiz App
 1. Project Idea
-Quiz App – A responsive and interactive quiz application built with React and styled using Tailwind CSS. This app fetches trivia questions from the Open Trivia Database API and allows users to test their knowledge across various topics and difficulty levels.
+Quiz App – A responsive and interactive quiz application built with React and styled using Tailwind CSS. This app fetches trivia questions from the Open Trivia Database API and allows users to test their knowledge across various topics and difficulty levels. 
 
 2. Features
 Dynamically fetch trivia questions from the Open Trivia Database API.
