@@ -92,3 +92,4 @@ const QuizHistory = ({ history }) => {
 };
 
 export default QuizHistory;
+
