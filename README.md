@@ -11,17 +11,17 @@ Deliver an engaging user experience with real-time scoring and feedback.
 
 ## **Features**
 
-    Fetches trivia questions dynamically from the Open Trivia Database API.
-    Customizable quiz settings (category, difficulty, and type of questions).
-    Multiple-choice question support.
-    Real-time scoring system with instant feedback.
-    Optimized for both desktop and mobile devices.
+Fetches trivia questions dynamically from the Open Trivia Database API.
+Customizable quiz settings (category, difficulty, and type of questions).
+Multiple-choice question support.
+Real-time scoring system with instant feedback.
+Optimized for both desktop and mobile devices.
 
 ## **Technologies used**
 
-    Frontend Framework: React (JavaScript)
-    Styling: Tailwind CSS
-    API Integration: Open Trivia Database API
+Frontend Framework: React (JavaScript)
+Styling: Tailwind CSS
+API Integration: Open Trivia Database API
 
 ## **Installation**
 
