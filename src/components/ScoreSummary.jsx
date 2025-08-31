@@ -57,3 +57,4 @@ const ScoreSummary = ({ score, total, userAnswers, onRetake, onNewTopic }) => {
 };
 
 export default ScoreSummary;
+
