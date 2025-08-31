@@ -4,10 +4,10 @@ This capstone project showcases a responsive and interactive quiz application de
 
 ## **Project Objectives**
 
-    Demonstrate the use of modern frontend technologies for building interactive web applications.
-    Implement API integration to fetch and display real-time data.
-    Apply responsive design principles to ensure usability across devices.
-    Deliver an engaging user experience with real-time scoring and feedback.
+Demonstrate the use of modern frontend technologies for building interactive web applications.
+Implement API integration to fetch and display real-time data.
+Apply responsive design principles to ensure usability across devices.
+Deliver an engaging user experience with real-time scoring and feedback.
 
 ## **Features**
 
