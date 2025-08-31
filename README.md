@@ -1,6 +1,6 @@
 # **Quiz App**
 
-    This capstone project showcases a responsive and interactive quiz application developed with React and styled using Tailwind CSS. The application integrates with the Open Trivia Database API to provide a dynamic learning and entertainment experience. Users can test their knowledge by selecting from a wide range of categories, difficulties, and question types.
+This capstone project showcases a responsive and interactive quiz application developed with React and styled using Tailwind CSS. The application integrates with the Open Trivia Database API to provide a dynamic learning and entertainment experience. Users can test their knowledge by selecting from a wide range of categories, difficulties, and question types.
 
 ## **Project Objectives**
 
